@@ -115,6 +115,4 @@ Este projeto foi desenvolvido através de:
 - Teste de variações de prompts  
 - Consolidação em formato estruturado  
 
----
 
-## 🤖 Exemplos de Prompts Utilizados
